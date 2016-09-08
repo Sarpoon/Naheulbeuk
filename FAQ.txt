@@ -1,0 +1,174 @@
+Foire aux questions
+
+Il est impossible de prévoir tous les cas quand on écrit un JDR... Vous avez donc déjà posé un certain nombre de questions. Pour certaines nous allons corriger les documents, mais dans tous les cas vous trouverez les réponses à vos questions ici.
+
+Comment apprendre à jouer à ce jeu de rôle ?
+
+Vous pouvez regarder mes tutoriels en vidéo dans la rubrique règles/Tutos vidéos.
+
+Les documents de contribution ont-ils disparu ?
+
+Non, pas du tout mais ils ont été regroupés dans la nouvelle rubrique Contributions. Cependant, le menu n'a pas été rafraîchi sur tous les navigateurs, alors il est possible que cette rubrique n'apparaisse pas chez vous...
+
+Les tableaux récapitulatifs des sorts ont-ils disparu ?
+
+Oui, ces tableaux ne sont plus d'actualité : on ne peut pas y mettre assez d'info et finalement les joueurs passent leur temps à discuter pour savoir ce qu'il faut faire avec les sorts. On ne gagne pas de temps à les utiliser (j'ai pu voir ça sur de nombreuses parties). Sans compter que ça doit être écrit en tout petit et certains joueurs se plantent à la lecture. J'avais fait ça pour gagner du temps à la base, mais ça ne marche pas car l'information est splittée en deux. Pour cette raison, les tableaux ne sont plus distribués avec les grimoires.
+Après tout, c'est le boulot du joueur que de chercher son sort dans son grimoire, comme le fait la Magicienne dans Naheulbeuk. Pour ça il peut utiliser le résumé qui est à la fin (l'index) et ainsi éviter de tourner les pages inutilement ;).
+Après quelques parties, le joueur connaît ses sorts et n'a plus trop besoin de chercher. Il peut également coller des post-it aux pages les plus utilisées.
+
+Avec quel logiciel on peut lire les fichiers PDF ?
+
+Vous avez besoin pour cela d'un petit logiciel gratuit nommé "Acrobat Reader" disponible en téléchargement un peu partout, comme par exemple ici.
+
+Je n'ai pas bien compris quel est ce personnage et comment le jouer.
+
+Voir la dernière version du livret des origines et métiers.
+
+Que faire avec les "points de destin" et comment les utiliser ?
+
+Voir la dernière version du livret des règles de base, page 24.
+
+Comment retrouver l'usage d'un bras tranché
+
+Voir la dernière version du livret des règles de base, page 24.
+
+Comment calculer l'énergie vitale / énergie astrale initiale ?
+
+Voir la dernière version du livret des règles de base, page 3.
+
+Quel jet doit-on faire pour détecter les pièges ?
+
+Voir la dernière version du livret des règles de base, page 5.
+
+Comment marche au juste le système d'armure, les points de protection (PR) ?
+
+Voir la dernière version du livret des règles de base, page 18 ainsi que le Guide de l'équipement.
+
+Qu'est-ce qu'un sort entropique ? Comment faire dans ce cas ?
+
+Voir la dernière version du livret des règles de base, page 24 ainsi que le livret spécifique de règles concernant la magie.
+
+Que faire avec les "ingrédients pour rituels et potions" ?
+
+Voir le guide de l'équipement ainsi que le nouveau document descriptif des ingrédients magiques.
+
+Comment se passe le combat à mains nues ?
+
+Voir la dernière version du livret des règles de base, page 13.
+
+Quel équipement attribuer à la création du personnage ?
+
+Voir le nouveau document "L'équipement en Terre de Fangh", page 1.
+
+L'équipement de départ d'un aventurier est-il déduit de sa fortune de départ ?
+
+Non. Voir le nouveau document "L'équipement en Terre de Fangh", page 1.
+
+Point de rupture des objets, destruction d'arme
+
+Voir la dernière version du livret des règles de base, page 14. Voir également le nouveau document "L'équipement en Terre de Fangh", page 2.
+
+Peut-on porter quelque chose au-dessus ou en dessous d'une cotte de mailles ?
+
+Voir le nouveau document "L'équipement en Terre de Fangh", page 4.
+
+La cotte de mailles protège t-elle les bras, les jambes ou même la tête ?
+
+Voir le nouveau document "L'équipement en Terre de Fangh", page 4.
+
+Comment faire pour gérer le poids des objets et des butins ?
+
+Voir le nouveau document "L'équipement en Terre de Fangh".
+
+Recettes d'ingénieur et compétences
+
+On m'a demandé si les héros non ingénieur disposant des compétences "forgeron" et "cuistot" ou "Bricolo du dimanche" avaient accès à des recettes d'ingénieur... Et là je pense que c'est complètement au choix du MJ ! D'une manière générale de toute façon, n'étant pas spécialisés ils souffriront de malus à la conception. Gardez juste en tête qu'en donnant trop de capacités d'ingénieur à un héros qui n'en est pas un, vous vous retrouvez avec un personnage bi-classé, ce qui n'est pas prévu dans le jeu pour le moment.
+
+Discrétion et attaque dans le dos
+
+Est-ce que le bonus de discrétion peut être utilisé pour augmenter les chances de toucher avec "Frapper lâchement" ? Non, pas du tout. L'épreuve de discrétion est passée AVANT l'attaque, elle consiste pour le héros à trouver le moyen de se placer derrière son adversaire sans avoir été vu. Ensuite seulement, le héros discret fait son attaque dans le dos.
+
+Vitesse augmentée et attaques par assaut
+
+Le nombre d'attaques par assaut d'un personnage dépend de sa vitesse mais aussi se trouve limité par sa perception. En effet, quelque que soit la vitesse de votre personnage, sa perception n'évolue pas ! Pas plus que son temps de réaction au cerveau. Il n'est ainsi pas concevable de cumuler les effets d'équipements et de potions accélérant le héros pour se retrouver avec 3 ou 4 attaques par assaut... C'est d'ailleurs aussi la raison pour laquelle la deuxième attaque (sur Ambidextrie) est comptée avec un malus de 5. Par ailleurs, dans un souci de réalisme toujours lié à la perception, d'une manière générale un héros avec 2 attaques par assaut aura toujours un malus sur la deuxième attaque (même avec des équipements enchantés).
+Quoi qu'il en soit, vous n'aurez toujours qu'une seule parade sur un assaut (à compter du fait que vous ne tournez pas le dos à l'ennemi et que vous n'êtes pas au sol). Si vous désirez cumuler des effets, le mieux que puisse faire le MJ est éventuellement de vous diminuer le malus de 2e attaque. Pour ce qui concerne l'esquive, une vitesse décuplée peut éventuellement vous permettre d'attaquer après une esquive mais c'est au choix du MJ, en fonction des circonstances.
+
+Les Nains : Ambidextrie, Armes de bourrins et boucliers
+
+Les Nains ont les bras plus courts que les humains et que les autres créatures et n'ont pas le même sens de l'équilibre, ni le même centre de gravité. Cela leur pose des problèmes pour ce qui concerne l'utilisation d'un certain nombre d'armes. On considère donc que les armes à 1 main des humains sont des armes à 2 mains pour les Nains (valable aussi pour les gobelins, les semi-hommes...) et qu'ils ne peuvent manier les vraies armes à 2 mains. Les Nains eux-mêmes fabriquent des armes spécialement étudiées qu'ils peuvent manier à 1 main (ils peuvent ainsi en prendre une dans chaque main, ou utiliser un bouclier avec). En conséquence, la compétence "armes de bourrins" ne sert à rien pour les Nains.
+
+Combat contre plusieurs adversaires - des trucs en plus
+
+Les règles de combat sont expliquées pour un héros contre un adversaire. Néanmoins trois types de configuration sont possibles en fait : 1/ Un héros, plusieurs ennemis 2/ Un ennemi, plusieurs héros 3/ Plusieurs héros, plusieurs ennemis (le plus répandu en fait). C'est au MJ de gérer les cas, sachant que les lois sont toujours les mêmes : on ne peut attaquer/parer qu'une fois par assaut (1 assaut = 2 secondes) sauf cas contradictoire de personnage très rapide, et les valeurs de COURAGE des participants à un combat s'additionnent pour déterminer l'initiative (à savoir, qui est le premier à taper). Quand plusieurs héros combattent plusieurs adversaires, les joueurs et le MJ vont décider d'un certain nombre de "groupes de combat" : Le Nain combat deux orques, l'Elfe tire une flèche sur l'un d'entre eux, le Barbare combat deux orques, le Ranger combat un orque... Et les combats sont gérés par petits groupes. Dans ce cas, le Nain par exemple pourra frapper une fois par assaut mais ne sera capable de parer qu'un seul coup. Le reste de l'organisation du combat est à définir en fonction de ses lois. Découpez le combat en "tours" logiques (le tour des héros, le tour des ennemis, et rebelote jusqu'à la fin) et réglez les actions les unes après les autres, vous arriverez sans problème au bout du combat. Bien sûr, le "moral" des forces en présence peut être affecté par un certain nombre d'événements : par exemple si dans un groupe de gobelins la moitié d'entre eux décède, il y a des chances pour que l'autre moitié fiche le camp (le MJ lance une épreuve de courage de chaque ennemi).
+
+Où puis-je acheter des dés bizarres mentionnés dans les livres des règles ?
+
+Ces dés se trouvent dans n'importe quelle boutique de jeux de rôle ou de jeux de société. Voir une liste de boutiques dans l'annuaire FFJDR.
+
+Où puis-je noter les compétences sur ma feuille ?
+
+Il n'y a pas à "noter les compétences" (sauf pour les humains qui ont beaucoup de choix, qui disposent de cases prévues à cet effet dans leur fiche d'origine), elles sont exhaustivement indiquées sur chaque feuille d'origine/métier qui doit être fournie au joueur en même temps que la feuille de perso. Cela concerne aussi bien les compétences "de base" que les optionnelles qui seront choisies par le joueur (choisies à la création mais également plus tard, en accédant à des niveaux supérieurs). Il ne faut pas oublier de les distribuer, voilà tout.
+
+Comment se passe le gain de compétence quand on a une origine et un métier ?
+
+C'est toujours le métier qui prime sur l'origine : en se spécialisant dans un métier, le héros développe les compétences liées à ce métier, et ce ne sont pas forcément celles qu'il aurait pu développer en passant ses journées à glander. Au passage de niveau, en cas de compétence à débloquer ce sont donc celles de la fiche de métier qu'il faut prendre, et non celles de l'origine.
+
+Apprendre un métier en cours de carrière
+
+Il est tout à fait possible d'apprendre un "métier" en cours de carrière. Par exemple un humain qui n'aura pas assez de FORCE ou de COURAGE pour devenir guerrier à la création de son personnage peut très bien choisir plus tard de devenir guerrier s'il devient assez fort ou courageux pour cela. Ce sont des règles qui agissent comme du CONSEIL et vous pouvez choisir de ne pas les appliquer si ça vous arrange. En revanche, ne venez pas pleurer si votre guerrier faible et couard finit découpé en rondelles... Le MJ décidera alors d'un prix et du temps nécessaire à l'apprentissage du métier par le héros.
+
+Tables de butin pour les monstres, trésors
+
+D'une manière générale nous n'avons pas proposé de tables pour tout ce qui concerne les trésors trouvés sur les monstres ou dans les donjons. C'est au MJ de faire son travail et d'aller piocher dans les différentes tables : équipement, armement, protections, objets magiques, ingrédients magiques... Et ce en fonction du contexte. La liste est longue et le fait de la brider peut entraîner à la longue une certaine lassitude... Mon truc : je fais lancer aux aventuriers un D20 à chaque fouille. Celui qui fait le plus petit score (proche du critique) a des chances de trouver de bons objets (en commençant par celui qui a la compétence "fouiller les poubelles"). Un score proche de la maladresse (19 ou 20) lui rapportera un quignon de pain moisi et un vieux couteau.
+
+Modifications en fonction des caractéristiques
+
+Nous avons donné quelques règles de modification pour les combats en fonction des caractéristiques ADRESSE et FORCE. Je précise que pour la FORCE inférieure à 8, il n'est pas nécessaire de retirer un point de dégât pour chaque point en-dessous de ce score : 1 point suffira. L'arme en elle-même occasionne de toute façon des dégâts de base, et si votre perso est trop faible il ne pourra pas utiliser la plupart des armes car il ne pourra les soulever. En revanche, pour CHAQUE point de FORCE au-dessus de 12 nous conseillons d'ajouter un point de dégât car il est tout à fait réaliste qu'un ogre tue quelqu'un d'un coup de dague, en lui transperçant l'abdomen par exemple.
+
+Compétences optionnelles
+
+Lors de la création de votre personnage, vous avez droit la plupart du temps à des compétences optionnelles. Ces informations sont visibles dans le document "origines et métiers" du MJ. Elles sont à choisir au moment de la création de votre personnage dans la liste donnée avec la fiche d'origine/métier. Dans le futur vous pourrez en ajouter (à piocher dans la même liste) en passant à certains stades de niveaux supérieurs.
+
+Quelle origine peut faire quel métier ?
+
+Il n'y a aucune limitation pour les métiers qui soit liés à des origines... Aucune limitation autre que les recommandations faites pour chaque cas dans les caractéristiques minimum/maximum et la pure logique de la Terre de Fangh. Le gobelin par exemple n'a pas l'intelligence nécessaire à la pratique de la magie, et de plus il en a horreur. Cela dit, rien ne vous empêche de faire un gobelin-mage pour le fun... Il risque cependant de ne pas servir à grand-chose (ou même d'être plutôt dangereux).
+
+Gestion du temps
+
+C'est le MJ qui doit décider de la grande course du temps... En fait, dans une partie quand les aventuriers font quelque chose, le MJ note quelque part "Bon, ça leur a pris 15 minutes"... "ça leur a pris 1 semaine", "ça leur a pris 1 mois". C'est lui qui dira "il fait jour, la nuit tombe, il fait nuit... vous entrez dans la saison hivernale". Dans un jeu de rôle le temps "en jeu" n'est absolument pas relatif au temps réel de jeu (et heureusement). Pour le cas particulier des stages, il est évident que c'est différent. Le joueur qui décide de faire un stage (un stage peut durer plusieurs mois...) déclare qu'il sera "indisponible" pendant la durée de son stage, et si ses camarades repartent à l'aventure immédiatement ils devront le faire sans lui. Ils peuvent également en profiter pour vaquer à diverses occupations en l'attendant, faire un stage eux-même, voyager pour rencontrer de la famille, se rendre à un pélerinage, visiter une grande cité... Dans ce cas tout le monde reste "absent 1 mois" et l'aventure reprendra quand les aventuriers seront de nouveau ensemble. Il n'est pas nécessaire bien sûr d'attendre 1 mois réel pour reprendre la partie... Cela peut être fait en cinq minutes. Le MJ peut décider en revanche que le temps passé peut avoir coûté de l'argent aux aventuriers (hébergement, voyage, nourriture...).
+
+Est-il possible de jouer à 15 personnes ? Quelle est la limite ?
+
+A priori dans un jeu de rôle il n'y a pas de limite... Mais je ne pense pas que ce soit possible de jouer à plus de 6, pour des raisons diverses qu'on pourrait résumer par : trop de bordel ! Il peut être déjà difficile de gérer 5 joueurs dans un jeu de ce type... Avec 15 personnes tout le monde devrait attendre son tour (par exemple dans un combat) et ça deviendrait super pénible.
+
+Comment débloquer les compétences optionnelles ?
+
+Dans le document des "origines et métiers" du MJ il est indiqué combien de compétences "optionnelles" sont débloquées à la création du personnage (au niveau 1 donc). Ces compétences sont indiquées dans chaque fiche d'origine et de métier sous la forme d'une liste avec des cases à cocher. Pour le reste, des compétences supplémentaires sont débloquées à certains passages de niveaux comme expliqué dans la page "on prend un niveau".
+
+Comment traduire l'amélioration des armes par un forgeron ?
+
+En ce qui concerne l'affûtage, on considère qu'un affûtage ne dure pas éternellement. Pour ma part, j'ajoute 1 aux dégâts pour un certain nombre de combats. Plus l'arme est de qualité, plus l'affûtage coûte cher et plus l'affûtage durera longtemps. Pour ce qui concerne d'autres améliorations, c'est au MJ de se débrouiller en attendant que je puisse faire un document spécial pour cela. Vous pouvez par exemple améliorer une arme de mauvaise qualité en diminuant ou supprimant ses malus, mais attention à ne pas faire payer plus cher que le prix d'une arme de bonne qualité... Les forgerons peuvent aussi réparer les armes dans certains cas. Maintenant, si vous voulez faire jouer un vrai forgeron, lisez et utilisez le "supplément pour l'ingénieur" qui vous donnera accès à un gameplay adapté.
+
+Un prêtre de Slanoush peut-il recoller un membre tranché ?
+
+Ce n'est pas prévu pour le moment. Slanoush n'est pas un dieu qui s'intéresse beaucoup à la guérison... De même que Dlul, puisqu'il considère qu'il est fatiguant de se mettre en danger. Par contre, ce sera peut-être le cas pour d'autres prêtres. En revanche, les mages de niveau 6 peuvent réintégrer les membres tranchés et parties du corps perdues. Voir à ce sujet la dernière version du livret des règles de base, page 11.
+
+La capacité de premiers soins peut-être s'utiliser indifiniment ?
+
+Le MJ répondra lui-même à cette question en fonction du contexte. De toute façon, les premiers soins ne guérissent que les plaies de faible importance. Au bout d'un moment, si un héros est trop amoché il faut aller voir un guérisseur et son compagnon de voyage pratiquant les premiers soins ne pourra plus rien faire pour lui. De plus... Ses blessures risquent de s'infecter ! Voir à ce sujet le document des Maladies en Terre de Fangh.
+
+À quoi servent les chiffrages au D20 ou au D100 dans certains tableaux ?
+
+Parfois, on préfère s'en référer au hasard pour découvrir un objet ou un événement. Dans ce cas les joueurs ou le MJ peuvent lancer un dé (souvent D20 ou D100 car ils proposent plus de choix) pour savoir ce qui va leur tomber dessus. C'est le cas des calamités de Mankdebol ou du tableau des potions, ainsi que les ingrédients magiques par exemple.
+
+Je prends un niveau, mais il n'y a pas de nouveaux sorts pour mon mage spécialisé...
+
+Ce n'est pas un oubli. Le mage spécialisé ne débloque pas toujours des sortilèges pour toutes ses spécialités, c'est comme ça. Il peut toujours lancer les sorts généralistes avec un petit malus, et peut se rattraper sur d'autres spécialités éventuellement débloquées.
+
+Existera-t-il un tableau des critiques sur les tests aux compétences ?
+
+Non, car il y a beaucoup trop de possibilités. C'est au MJ de décider des résultats d'un critique ou d'une maladresse sur un test de compétence. Exemple : Le personnage grimpe à l'arbre pour surprendre des ennemis (épreuve d'ADRESSE). Il otbient 19 au D20 : maladresse ! Le MJ décide qu'il tombe de l'arbre, prend 1D6 de dégâts et se fait détecter :). S'il obtient 15 alors qu'il a 12 en adresse, il ne parvient tout simplement pas à grimper à l'arbre.
+
+Les monstres/ennemis ont-ils une Rés. Magie ?
+
+Oui, bien sûr. Enfin, sauf peut-être les gobelins ?... Quoi qu'il en soit, c'est au MJ de la déterminer, et pour ce qui concerne la plupart des démons et élémentaires il peut piocher dans le tableau des invocations qui contient ces données.
